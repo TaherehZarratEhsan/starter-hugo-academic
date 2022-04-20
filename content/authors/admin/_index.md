@@ -51,7 +51,7 @@ social:
   link: https://github.com/TaherehZarratEhsan/
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Tahereh-Ehsan?ev=hdr_xprf&_sg=9Q0vxWTCYUPOz4GxNL9yvXqi63vRE1QD5CGKDlvX0yTL7B6TJYrkZ46gznnbXxY59BL1C_JEhuv5tDd4bg05MwzO
+  link: https://www.researchgate.net/profile/Tahereh-Ehsan
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
