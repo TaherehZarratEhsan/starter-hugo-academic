@@ -42,9 +42,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example2.org
+#   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://rad-bunny-95c815.netlify.app/publication/example2/example2.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
