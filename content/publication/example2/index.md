@@ -1,23 +1,23 @@
 ---
-title: "An example conference paper"
+title: "Vi-Net: A Deep Violent Flow Network for Violence Detection in Video Sequences"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Seyed Mehdi Mohtavipour
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-12-22"
+doi: "10.1109/IKT51791.2020.9345617"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-22"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In 2020 11th International Conference on Information and Knowledge Technology (IKT)
+publication_short: In IKT
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Violent crime is one of the main reasons for death and mental disorder among adults worldwide. It increases the emotional distress of families and communities, such as depression, anxiety, and post-traumatic stress disorder. Automatic violence detection in surveillance cameras is an important research area to prevent physical and mental harm. Previous human behavior classifiers are based on learning both normal and violent patterns to categorize new unknown samples. There are few large datasets with various violent actions, so they could not provide sufficient generality in unseen situations. This paper introduces a novel unsupervised network based on motion acceleration patterns to derive and abstract discriminative features from input samples. This network is constructed from an AutoEncoder architecture, and it is required only to use normal samples in the training phase. The classification has been performed using a one-class classifier to specify violent and normal actions. Obtained results on Hockey and Movie datasets showed that the proposed network achieved outstanding accuracy and generality compared to the state-of-the-art violence detection methods.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 
 tags: []
 
