@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Probabilistic Deep Learning with TensorFlow 2
+  title: TensorFlow 2 for deep learning specialization
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
