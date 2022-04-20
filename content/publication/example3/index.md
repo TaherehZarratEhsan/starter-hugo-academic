@@ -1,20 +1,23 @@
 ---
-title: "DABA-Net"
+title: "An example conference paper"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Manoochehr Nahvi
-- Seyed Mehdi Mohtavipour
+- Robert Ford
 
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2022-02-23"
-doi: "10.1109/MVIP53647.2022.9738791"
+date: "2013-07-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-23"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,13 +26,13 @@ publishDate: "2022-02-23"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In 2022 International Conference on Machine Vision and Image Processing (MVIP)
-publication_short: In MVIP
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: Violent crime is one of the main reasons for death and mental disorder among adults worldwide. It increases the emotional distress of families and communities, such as depression, anxiety, and post-traumatic stress disorder. Automatic violence detection in surveillance cameras is an important research area to prevent physical and mental harm. Previous human behavior classifiers are based on learning both normal and violent patterns to categorize new unknown samples. There are few large datasets with various violent actions, so they could not provide sufficient generality in unseen situations. This paper introduces a novel unsupervised network based on motion acceleration patterns to derive and abstract discriminative features from input samples. This network is constructed from an AutoEncoder architecture, and it is required only to use normal samples in the training phase. The classification has been performed using a one-class classifier to specify violent and normal actions. Obtained results on Hockey and Movie datasets showed that the proposed network achieved outstanding accuracy and generality compared to the state-of-the-art violence detection methods.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -41,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://rad-bunny-95c815.netlify.app/publication/example3/example3.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -52,33 +55,33 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects: []
-
+projects:
+- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: ""
+slides: example
+---
 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
