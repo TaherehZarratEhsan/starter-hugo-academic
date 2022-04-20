@@ -31,22 +31,7 @@ item:
   organization_url: https://www.coursera.org
   title: TensorFlow 2 for deep learning specialization
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: ""
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: 'Object-Oriented Programming in R'
-  url: ""
+
 
 design:
   columns: '2' 
