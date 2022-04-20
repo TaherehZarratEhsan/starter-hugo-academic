@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks
+  title: Tensorflow 2 for deep learning specialization
   url: ""
 
 
