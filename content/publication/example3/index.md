@@ -1,5 +1,5 @@
 ---
-title: "DABA-Net: Deep Acceleration-Based AutoEncoder Network for Violence Detection in Surveillance Cameras"
+title: "DABA-Net"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
