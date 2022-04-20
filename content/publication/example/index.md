@@ -32,7 +32,7 @@ publication_short: In ICCKE
 abstract: Intelligent surveillance systems and automatic detection of abnormal behaviors have become a major problem in recent years due to increased security concerns. Violence behaviors have a vast diversity so that distinction between them is the most challenging problem in video-surveillance systems. In recent works, introducing unique and discriminative feature for representing violence behaviors is needed strongly. In this paper, a novel violence detection method has been proposed which is based on combination of motion trajectory and spatio-temporal features. A dense sampling has been carried out on spatiotemporal volumes along target's path to extract Differential Histogram of Optical Flow (DHOF) and standard deviation of motion trajectory features. These novel features were employed to train a Support Vector Machine (SVM) to classify video volumes into two normal and violence categories. Experimental results demonstrate that the proposed method outperforms other state-of-the-art violence detection methods and achieves 91 % accuracy for detection result.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
