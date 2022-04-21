@@ -1,6 +1,6 @@
 ---
 title: Breast Cancer Detection
-#summary: An example of using the in-built project page.
+summary: ""
 tags:
 - Deep Learning
 date: "2022-04-11"
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Now, I am starting my research in breast cancer detection. Currently, I am reading about state-of-the-art methods in various breast images such as CT, MRI, and Mamo. I started to work on self-supervised and unsupervised approaches for breast cancer detection. 
