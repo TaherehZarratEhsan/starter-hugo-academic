@@ -30,4 +30,4 @@ url_video: ""
 #slides: example
 ---
 
-Currently, I am reading about state-of-the-art methods in various breast images such as CT, MRI, and Mamo. I started to work on self-supervised and unsupervised approachs for breast cancer detection. 
+Currently, I am reading about state-of-the-art methods in various breast images such as CT, MRI, and Mamo. I started to work on self-supervised and unsupervised approaches for breast cancer detection. 
