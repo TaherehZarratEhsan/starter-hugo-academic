@@ -30,10 +30,10 @@ education:
   courses:
   - course: M.Sc. in Electrical Engineering
     institution: University of Guilan
-    year: 2015-2019
+    year: 2016-2019
   - course: BSc in Electrical Engineering
     institution: University of Guilan
-    year: 2008-2014
+    year: 2009-2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
