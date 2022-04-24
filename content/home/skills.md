@@ -32,6 +32,34 @@ feature:
   icon_pack: custom
   name: opencv
   description:
+- icon: colab
+  icon_pack: custom
+  name: colab
+  description:
+- icon: scikit
+  icon_pack: custom
+  name: scikit
+  description:
+- icon: numpy
+  icon_pack: custom
+  name: numpy
+  description:
+- icon: scipy
+  icon_pack: custom
+  name: scipy
+  description:
+- icon: pandas
+  icon_pack: custom
+  name: pandas
+  description:
+- icon: matplotlib
+  icon_pack: custom
+  name: matplotlib
+  description:
+- icon: seaborn
+  icon_pack: custom
+  name: seaborn
+  description:
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
