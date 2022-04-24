@@ -47,11 +47,11 @@ experience:
     description: |2-
 
          Completed courses include:
-         * computer vision 
-         * neural networks
-         * machine vision
+         * Computer vision 
+         * Neural networks
+         * Machine vision
          * Thesis: Violence recognition in video sequences using computer vision techniques
-         * Published 2 Conference papers
+         * Published 2 conference papers
 
 design:
   columns: '2'
