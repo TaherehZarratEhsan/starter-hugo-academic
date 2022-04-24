@@ -3,7 +3,7 @@ title: Breast Cancer Detection
 summary: " "
 tags:
 - Deep Learning
-date: "2022-04-11"
+date: "2021-12-11"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
