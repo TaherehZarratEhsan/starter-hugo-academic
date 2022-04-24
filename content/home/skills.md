@@ -60,6 +60,10 @@ feature:
   icon_pack: custom
   name: seaborn
   description:
+- icon: github
+  icon_pack: custom
+  name: github
+  description:
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
