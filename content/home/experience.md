@@ -43,7 +43,7 @@ experience:
     location: Rasht
     date_start: '2015-07-07'
     date_end: '2019-02-02'
-    description: studied computer vision, neural networks, machine vision courses. Thesis:''
+    description: Completed courses: computer vision, neural networks, machine vision courses. Thesis:'Violence recognition in video sequences using computer vision techniques'
 
 design:
   columns: '2'

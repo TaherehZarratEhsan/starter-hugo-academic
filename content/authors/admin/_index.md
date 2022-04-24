@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-I received my M.Sc. degree in Electrical engineering from University of Guilan. The main focus of my research has been computer vision and deep learning. Currently, I am an independent researcher, working on deep neural network architectures and medical image analysis. 
+I received my M.Sc. degree in Electrical engineering from University of Guilan. The main focus of my research has been computer vision and deep learning. Currently, I am an independent researcher, working on deep neural network architectures, human action recognition and medical image analysis. 
 
 I am open to research collaboration in the relevant areas if you are interested, feel free to contact me: zarrat.ehsan [AT] gmail.com
 
