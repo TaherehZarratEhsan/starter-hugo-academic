@@ -33,10 +33,9 @@ experience:
         
         Searches include:
         
-        * Representation learning of human actions
+        * Representation learning using deep learning unsupervised approaches
         * Probabilistic deep learning
-        * Action recognition
-        * Published 1 conference paper and submitted two journal papers
+        * Published 1 conference paper and submitted 2 journal papers
         
   - title: Masters Researcher
     company: University of Guilan
