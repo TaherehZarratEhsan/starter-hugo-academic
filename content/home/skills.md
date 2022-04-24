@@ -22,7 +22,7 @@ feature:
   description:
 - icon: tensorflow
   icon_pack: custom
-  name: Tensorflow
+  name: Tensorflow/Tensorflow probabilty
   description:
 - icon: keras
   icon_pack: custom
