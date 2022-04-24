@@ -35,7 +35,7 @@ experience:
         
         * Representation learning using deep learning unsupervised approaches
         * Probabilistic deep learning
-        * Published 1 conference paper and submitted 2 journal papers
+        * Published 2 conference paper and submitted 2 journal papers
         
   - title: Masters Researcher
     company: University of Guilan
@@ -51,7 +51,7 @@ experience:
          * Neural networks
          * Machine vision
          * Thesis: Violence recognition in video sequences using computer vision techniques
-         * Published 2 conference papers
+         * Published 1 conference paper
 
 design:
   columns: '2'
