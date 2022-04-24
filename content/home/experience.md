@@ -51,7 +51,7 @@ experience:
          * computer vision 
          * neural networks
          * machine vision
-         * Thesis:'Violence recognition in video sequences using computer vision techniques'
+         * Thesis: Violence recognition in video sequences using computer vision techniques
          * Published 2 Conference papers
 
 design:
