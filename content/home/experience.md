@@ -30,11 +30,13 @@ experience:
     date_start: '2019-02-02'
     date_end: ''
     description: |2-
+        
         Searches include:
         
         * Representation learning of human actions
         * Probabilistic deep learning
         * Action recognition
+        * Published 1 conference paper and submitted two journal papers
         
   - title: Masters Researcher
     company: University of Guilan
@@ -43,7 +45,14 @@ experience:
     location: Rasht
     date_start: '2015-07-07'
     date_end: '2019-02-02'
-    description: Completed courses: computer vision, neural networks, machine vision courses. Thesis:'Violence recognition in video sequences using computer vision techniques'
+    description: |2-
+
+         Completed courses include:
+         * computer vision 
+         * neural networks
+         * machine vision
+         * Thesis:'Violence recognition in video sequences using computer vision techniques'
+         * Published 2 Conference papers
 
 design:
   columns: '2'
