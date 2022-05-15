@@ -10,8 +10,8 @@ role: Artificial Intelligence Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Guilan
-  url: http://www.guilan.ac.ir/
+#- name: University of Guilan
+#  url: http://www.guilan.ac.ir/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Deep Learning, Computer Vision and Unsupervised Networks.
