@@ -19,10 +19,10 @@ bio: My research interests include Deep Learning and Computer Vision.
 # Interests to show in About widget
 interests:
 - Human action recognition
-- Breast cancer detection
+- Breast cancer recognition
 - Anomaly recognition 
 - Generative modeling 
-- Unsupervised and self-supervised deep learning
+- Unsupervised, self-supervised and probabilistic deep learning
 - Representation learning
 
 # Education to show in About widget
