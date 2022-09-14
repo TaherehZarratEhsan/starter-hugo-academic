@@ -31,7 +31,6 @@ item:
   organization_url: https://www.coursera.org
   title: Tensorflow 2 for deep learning specialization
   url: ""
-
 - certificate_url: https://coursera.org/share/32ab698d5015d37cc81bf83a3d69f9ea
   date_end: ""
   date_start: ""
