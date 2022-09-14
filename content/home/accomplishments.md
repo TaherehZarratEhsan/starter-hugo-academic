@@ -25,11 +25,20 @@ date_format: Jan 2006
 item:
 - certificate_url: https://coursera.org/share/eff6f9a65a6e96dc35d0b6776296f9e4
   date_end: ""
-  date_start: "2022-05-19"
+  date_start: ""
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Tensorflow 2 for deep learning specialization
+  url: ""
+
+- certificate_url: https://coursera.org/share/32ab698d5015d37cc81bf83a3d69f9ea
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title:  Generative Adversarial Networks (GANs) Specialization
   url: ""
 
 
