@@ -40,7 +40,6 @@ item:
   title:  Generative Adversarial Networks (GANs) Specialization
   url: ""
 
-
 design:
   columns: '2' 
 ---
