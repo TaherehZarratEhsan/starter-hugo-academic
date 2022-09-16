@@ -31,14 +31,14 @@ item:
   organization_url: https://www.coursera.org
   title: Tensorflow 2 for Deep Learning Specialization
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://coursera.org/share/32ab698d5015d37cc81bf83a3d69f9ea
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Generative Adversarial Networks (GAN) Specialization
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
