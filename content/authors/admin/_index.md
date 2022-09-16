@@ -21,7 +21,7 @@ interests:
 - Human action recognition
 - Breast cancer recognition
 - Anomaly recognition 
-- Generative modeling 
+- Generative modeling and normalizing flows
 - Unsupervised, self-supervised and probabilistic deep learning
 - Representation learning
 
