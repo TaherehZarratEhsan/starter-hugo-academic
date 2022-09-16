@@ -33,19 +33,11 @@ item:
   url: ""
 - certificate_url: https://coursera.org/share/32ab698d5015d37cc81bf83a3d69f9ea
   date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2022-09-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Generative Adversarial Networks (GAN) Specialization
-  url: ""
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
   url: ""
 
 design:
