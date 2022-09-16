@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title:  Generative Adversarial Networks(GANs) Specialization
+  title:  Generative Adversarial Networks (GANs) Specialization
   url: ""
 
 design:
