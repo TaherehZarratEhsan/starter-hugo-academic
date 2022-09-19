@@ -32,10 +32,13 @@ experience:
     description: |2-
         
         Searches include:
-        
-        * Representation learning using deep learning unsupervised approaches
+	* Advanced deep learning such as Transformer and Attention
         * Probabilistic deep learning
-        * Published 2 conference paper and submitted 2 journal papers
+	* genrative modeling such as GAN, VAE, NF
+        * Representation learning using unsupervised deep learning approaches
+        * Published: 2 conference paper, 1 Q1 journal
+        * under-review: 1 journal paper
+	* draft: a survery on violence recogintion in video sequences
         
   - title: Masters Researcher
     company: University of Guilan
@@ -51,7 +54,9 @@ experience:
          * Neural networks
          * Machine vision
          * Thesis: Violence recognition in video sequences using computer vision techniques
-         * Published 1 conference paper
+         Searches include:
+	 * Image and video processing techniques such as object detection, tracking, feature extraction, motion estimation
+	 * Published 1 conference paper
 
 design:
   columns: '2'
