@@ -34,7 +34,7 @@ experience:
         Searches include:
 	* Representation learning using deep learning unsupervised approaches
         * Probabilistic deep learning
-        * Published 2 conference paper and submitter 2 journal papers        
+        * Published 2 conference paper and submitted 2 journal papers        
   - title: Masters Researcher
     company: University of Guilan
     company_url: ''
