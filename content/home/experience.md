@@ -22,41 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Independent Researcher
-    company: 
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    company_logo: 
-    location: Tehran
-    date_start: '2019-02-02'
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
+        Responsibilities include:
         
-        Searches include:
-	* Advanced deep learning such as Transformer and Attention
-        * Probabilistic deep learning
-	* genrative modeling such as GAN, VAE, NF
-        * Representation learning using unsupervised deep learning approaches
-        * Published: 2 conference paper, 1 Q1 journal
-        * under-review: 1 journal paper
-	* draft: a survery on violence recogintion in video sequences
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: Masters Researcher
-    company: University of Guilan
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
-    company_logo:
-    location: Rasht
-    date_start: '2015-07-07'
-    date_end: '2019-02-02'
-    description: |2-
-
-         Completed courses include:
-         * Computer vision 
-         * Neural networks
-         * Machine vision
-         * Thesis: Violence recognition in video sequences using computer vision techniques
-         Searches include:
-	 * Image and video processing techniques such as object detection, tracking, feature extraction, motion estimation
-	 * Published 1 conference paper
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
