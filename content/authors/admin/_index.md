@@ -22,7 +22,7 @@ interests:
 - Breast cancer recognition
 - Anomaly recognition 
 - Generative modeling
-- Unsupervised, self-supervised and probabilistic deep learning
+- Unsupervised, and probabilistic deep learning
 - Representation learning
 
 # Education to show in About widget
