@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Researcher
+    company: 
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: 
+    date_start: ''
     date_end: ''
     description: |2-
         Research and python implementation of:
@@ -36,14 +36,14 @@ experience:
         * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows, PixelCNN and WaveNet
         * Published 2 IEEE conferences paper at ICCKE and IKT, Published 1 Journal paper at multimedia tools and application journal, submitted 1 jounal paper at visual computer journal  
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Master's Researcher
+    company: University of Guilan
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Research and python implementation of 
+    company_logo: 
+    location: 
+    date_start: ''
+    date_end: ''
+    description: Research and application of machine learning, deep learning, pattern recognition and its application for computer vision. Programming implementation of various image processing techniques such as object detection, tracking, motion estimation, segmentation, feature extraction, feature matching, and optimization
 
 design:
   columns: '2'
