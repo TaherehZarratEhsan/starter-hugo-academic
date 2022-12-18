@@ -30,11 +30,11 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Research and python implementation of:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Advanced deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
+        * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows, PixelCNN and WaveNet
+        * Published 2 IEEE conferences paper at ICCKE and IKT, Published 1 Journal paper at multimedia tools and application journal, submitted 1 jounal paper at visual computer journal  
         
   - title: Professor of Semiconductor Physics
     company: University X
@@ -43,7 +43,7 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Research and python implementation of 
 
 design:
   columns: '2'
