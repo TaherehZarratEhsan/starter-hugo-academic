@@ -46,6 +46,9 @@ experience:
     description: |2-
         Research and python implementation of:
 
+        * Advanced deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
+
+
 design:
   columns: '2'
 ---
