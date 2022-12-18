@@ -25,7 +25,7 @@ experience:
   - title: Researcher
     company: 
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: 
     date_start: '2020-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Master Researcher
     company: University of Guilan
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: 
     date_start: '2016-01-01'
     date_end: '2020-12-31'
