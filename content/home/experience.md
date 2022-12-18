@@ -22,32 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher
-    company: 
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    company_logo: 
-    location: 
-    date_start: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Research and python implementation of:
+        Responsibilities include:
         
-        * Advanced deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
-        * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows, PixelCNN and WaveNet
-        * Published 2 IEEE conferences paper at ICCKE and IKT, Published 1 Journal paper at multimedia tools and application journal, submitted 1 jounal paper at visual computer journal  
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: Master's Researcher
-    company: University of Guilan
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
-    company_logo: 
-    location: 
-    date_start: ''
-    date_end: ''
-    description: |2-
-        Research and implementation of:
-        
-        * Research and application of machine learning, deep learning, pattern recognition and its application for computer vision
-        * Programming implementation of various image processing techniques such as object detection, tracking, motion estimation, segmentation, feature extraction, feature matching, and optimization
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
