@@ -43,9 +43,9 @@ item:
   date_end: "2023-01-10"
   date_start: "2022-11-01"
   description: ""
-  organization: Ferdosi University of Mashhad
+  organization: Ferdosi University of Mashhad(qs: 101-150)
   organization_url: https://en.um.ac.ir/
-  title: Second Winner of computer vision and machine learning competition 
+  title: Second Winner of Computer Vision and Machine Learning Competition 
   url: ""
 design:
   columns: '2' 
