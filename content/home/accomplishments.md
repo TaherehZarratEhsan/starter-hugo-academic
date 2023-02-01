@@ -39,7 +39,14 @@ item:
   organization_url: https://www.coursera.org
   title: Generative Adversarial Networks (GAN) Specialization
   url: ""
-
+- certificate_url: https://coursera.org/share/32ab698d5015d37cc81bf83a3d69f9ea
+  date_end: "2023-01-10"
+  date_start: "2022-11-01"
+  description: ""
+  organization: Ferdosi University of Mashhad
+  organization_url: https://en.um.ac.ir/
+  title: Second Winner of computer vision and machine learning competition 
+  url: ""
 design:
   columns: '2' 
 ---
