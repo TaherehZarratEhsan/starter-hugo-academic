@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher-Freelancer
+  - title: Researcher
     company: 
     company_url: ''
     company_logo: 
@@ -30,11 +30,11 @@ experience:
     date_start: '2020-01-01'
     date_end: ''
     description: |2-
-        Research and python implementation of:
-        
-        * Advanced deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
-        * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows, PixelCNN and WaveNet
-        * Published 2 IEEE Conference papers at ICCKE and IKT, Published 1 journal paper at multimedia tools and application, submitted 1 journal paper at visual computer
+        Research of Violence detection techniques using:
+      
+        * Deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
+        * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows
+        * Published 2 IEEE international Conference papers at ICCKE and IKT, Published 2 journal paper at multimedia tools and applications and visual computer journals
         
   - title: Master Researcher
     company: University of Guilan
@@ -47,7 +47,7 @@ experience:
         Research and python implementation of:
 
         * Research and application of machine learning, deep learning, pattern recognition and its application for computer vision
-        * Programming implementation of various image processing techniques such as object detection, tracking, motion estimation, segmentation, feature extraction, feature matching, and optimization
+        * Programming implementation of various image processing techniques for abnormal human behaviour detection such as object detection, motion estimation, segmentation, feature extraction, feature matching, and optimization
 
 
 design:
