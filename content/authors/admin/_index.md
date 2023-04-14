@@ -14,12 +14,11 @@ organizations:
 #  url: http://www.guilan.ac.ir/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep Learning and Computer Vision.
+bio: My research interests include Machine Learning, Deep Learning and Computer Vision.
 
 # Interests to show in About widget
 interests:
-- Human action recognition
-- Breast cancer recognition
+- Violent Detection
 - Anomaly recognition 
 - Generative modeling
 - Unsupervised, and probabilistic deep learning
@@ -67,7 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-I received my M.Sc. degree in Electrical engineering from University of Guilan. The main focus of my research has been computer vision and deep learning. Currently, I am researcher, working on deep neural network architectures, generative modeling, human behavior understanding and medical image analysis. 
+I received my M.Sc. degree in Electrical engineering from University of Guilan. The main focus of my research has been computer vision and deep learning.  
 
 I am open to research collaboration in the relevant areas if you are interested, feel free to contact me: zarrat.ehsan [AT] gmail.com
 
