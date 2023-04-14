@@ -49,6 +49,7 @@ experience:
  
         * Programming implementation of various image processing techniques for abnormal human behaviour detection such as object detection, motion estimation, segmentation, feature extraction, feature matching, and optimization
 
+
 design:
   columns: '2'
 ---
