@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher
+  - title: Researcher-Freelancer
     company: 
     company_url: ''
     company_logo: 
@@ -36,7 +36,7 @@ experience:
         * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows
         * Published 2 IEEE international Conference papers at ICCKE and IKT
         * Published 2 journal paper at multimedia tools and applications (Q1) and visual computer (Q2) journals
-        
+
   - title: Master Researcher
     company: University of Guilan
     company_url: ''
