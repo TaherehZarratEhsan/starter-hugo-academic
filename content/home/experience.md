@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: 
     location: 
-    date_start: '2015-01-01'
-    date_end: '2019-02-31'
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: |2-
         Research and python implementation of:
 
