@@ -34,7 +34,7 @@ experience:
       
         * Deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
         * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows
-        * Published 2 IEEE international Conference papers at MVIP and IKT
+        * Published 2 IEEE international Conference papers at ICCKE and IKT
         * Published 2 journal paper at multimedia tools and applications (Q1) and visual computer (Q2) journals
         
   - title: Master Researcher
@@ -48,7 +48,6 @@ experience:
         Research and python implementation of:
  
         * Programming implementation of various image processing techniques for abnormal human behaviour detection such as object detection, motion estimation, segmentation, feature extraction, feature matching, and optimization
-        * Published 1 IEEE international Conference paper at ICCKE
 
 
 design:
