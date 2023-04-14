@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: 
     location: 
-    date_start: ''
+    date_start: '2019-03-01'
     date_end: ''
     description: |2-
         Research of Violence detection techniques using:
@@ -42,8 +42,8 @@ experience:
     company_url: ''
     company_logo: 
     location: 
-    date_start: ''
-    date_end: ''
+    date_start: '2015-09-01'
+    date_end: '2019-02-31'
     description: |2-
         Research and python implementation of:
  
