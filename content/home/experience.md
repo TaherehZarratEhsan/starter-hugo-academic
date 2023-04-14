@@ -34,7 +34,8 @@ experience:
       
         * Deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
         * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows
-        * Published 2 IEEE international Conference papers at ICCKE and IKT, Published 2 journal paper at multimedia tools and applications and visual computer journals
+        * Published 2 IEEE international Conference papers at ICCKE and IKT
+        * Published 2 journal paper at multimedia tools and applications (Q1) and visual computer (Q2) journals
         
   - title: Master Researcher
     company: University of Guilan
@@ -45,8 +46,7 @@ experience:
     date_end: '2020-12-31'
     description: |2-
         Research and python implementation of:
-
-        * Research and application of machine learning, deep learning, pattern recognition and its application for computer vision
+ 
         * Programming implementation of various image processing techniques for abnormal human behaviour detection such as object detection, motion estimation, segmentation, feature extraction, feature matching, and optimization
 
 
