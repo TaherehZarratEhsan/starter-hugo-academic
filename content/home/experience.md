@@ -1,4 +1,4 @@
----
+ ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -27,28 +27,28 @@ experience:
     company_url: ''
     company_logo: 
     location: 
-    date_start: '2019-03-01'
+    date_start: '2020-01-01'
     date_end: ''
     description: |2-
-        Research of Violence detection techniques using:
-      
-        * Deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
-        * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows
-        * Published 2 IEEE international Conference papers at MVIP and IKT
-        * Published 2 journal paper at multimedia tools and applications (Q1) and visual computer (Q2) journals
-
+        Research and python implementation of:
+        
+        * Advanced deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
+        * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows, PixelCNN and WaveNet
+        * Published 2 IEEE Conference papers at ICCKE and IKT, Published 1 journal paper at multimedia tools and application, submitted 1 journal paper at visual computer
+        
   - title: Master Researcher
     company: University of Guilan
     company_url: ''
     company_logo: 
     location: 
-    date_start: '2015-09-01'
-    date_end: '2019-02-31'
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: |2-
         Research and python implementation of:
- 
-        * Programming implementation of various image processing techniques for abnormal human behaviour detection such as object detection, motion estimation, segmentation, feature extraction, feature matching, and optimization
-        * Published 1 IEEE international Conference paper at ICCKE
+
+        * Research and application of machine learning, deep learning, pattern recognition and its application for computer vision
+        * Programming implementation of various image processing techniques such as object detection, tracking, motion estimation, segmentation, feature extraction, feature matching, and optimization
+
 
 design:
   columns: '2'
