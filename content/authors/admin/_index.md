@@ -19,10 +19,11 @@ bio: My research interests include Machine Learning, Deep Learning and Computer 
 # Interests to show in About widget
 interests:
 - Violent Detection
-- Anomaly recognition 
-- Generative modeling
-- Unsupervised, and probabilistic deep learning
-- Representation learning
+- Machine Learning
+- Anomaly Recognition 
+- Generative Modeling
+- Unsupervised, and Probabilistic Deep Learning
+- Representation Learning
 
 # Education to show in About widget
 education:
