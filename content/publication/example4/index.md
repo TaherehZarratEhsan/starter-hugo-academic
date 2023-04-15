@@ -23,8 +23,8 @@ publishDate: "2023-03-23"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In 2022 International Conference on Machine Vision and Image Processing (MVIP)
-publication_short: In MVIP
+publication: In Multimedia tools and application journal
+publication_short: In Multimedia tools and application journal
 
 abstract: Violent crime is one of the main reasons for death and mental disorder among adults worldwide. It increases the emotional distress of families and communities, such as depression, anxiety, and post-traumatic stress disorder. Automatic violence detection in surveillance cameras is an important research area to prevent physical and mental harm. Previous human behavior classifiers are based on learning both normal and violent patterns to categorize new unknown samples. There are few large datasets with various violent actions, so they could not provide sufficient generality in unseen situations. This paper introduces a novel unsupervised network based on motion acceleration patterns to derive and abstract discriminative features from input samples. This network is constructed from an AutoEncoder architecture, and it is required only to use normal samples in the training phase. The classification has been performed using a one-class classifier to specify violent and normal actions. Obtained results on Hockey and Movie datasets showed that the proposed network achieved outstanding accuracy and generality compared to the state-of-the-art violence detection methods.
 
