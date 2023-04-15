@@ -10,11 +10,11 @@ authors:
 - Seyed Mehdi Mohtavipour
 
 
-date: "2022-02-23"
+date: "2023-02-23"
 doi: "10.1109/MVIP53647.2022.9738791"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-23"
+publishDate: "2023-02-23"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
