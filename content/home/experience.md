@@ -30,11 +30,12 @@ experience:
     date_start: '2020-01-01'
     date_end: ''
     description: |2-
-        Research and python implementation of:
+        Research of violence detection techniques using:
         
-        * Advanced deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
+        * deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
         * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows, PixelCNN and WaveNet
-        * Published 2 IEEE Conference papers at ICCKE and IKT, Published 1 journal paper at multimedia tools and application, submitted 1 journal paper at visual computer
+        * Published 2 IEEE international Conference papers at MVIP and IKT
+        * Published 2 journal papers at multimedia tools and application and visual computer journals
         
   - title: Master Researcher
     company: University of Guilan
