@@ -25,6 +25,7 @@ interests:
 - Representation Learning
 - Generalizability of Deep Learning
 - Violence Detection
+- Breast Cancer Detection
 # Education to show in About widget
 education:
   courses:
