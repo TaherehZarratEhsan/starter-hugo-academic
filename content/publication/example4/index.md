@@ -1,5 +1,5 @@
 ---
-title: "Learning Deep Latent Space for Violence Detection"
+title: "Learning Deep Latent Space for Unsupervised Violence Detection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
