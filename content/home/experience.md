@@ -33,7 +33,7 @@ experience:
         Research of violence detection techniques using:
         
         * deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
-        * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows, PixelCNN and WaveNet
+        * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows
         * Published 2 IEEE international Conference papers at MVIP and IKT
         * Published 2 journal papers at multimedia tools and application (Q1) and visual computer (Q2) journals
         
@@ -47,7 +47,7 @@ experience:
     description: |2-
         Research and python implementation of:
 
-        * Programming implementation of various image processing techniques such as object detection, tracking, motion estimation, segmentation, feature extraction, feature matching, and optimization
+        * Programming implementation of various image processing techniques for abnormal human behavior recognition such as object detection, motion estimation, segmentation, feature extraction, feature matching, and optimization
 
 
 design:
