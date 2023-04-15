@@ -35,7 +35,7 @@ experience:
         * deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
         * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows, PixelCNN and WaveNet
         * Published 2 IEEE international Conference papers at MVIP and IKT
-        * Published 2 journal papers at multimedia tools and application and visual computer journals
+        * Published 2 journal papers at multimedia tools and application (Q1) and visual computer (Q2) journals
         
   - title: Master Researcher
     company: University of Guilan
