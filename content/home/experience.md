@@ -47,7 +47,7 @@ experience:
     description: |2-
         Research and python implementation of:
 
-        * Programming implementation of various image processing techniques for abnormal human behavior recognition such as object detection, motion estimation, segmentation, feature extraction, feature matching, and optimization
+        * Various image processing techniques for abnormal human behavior recognition such as object detection, motion estimation, segmentation, feature extraction, feature matching, and optimization
         * Published 1 IEEE international Conference papers at ICCKE
 
 
