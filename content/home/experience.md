@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: 
     location: 
-    date_start: '2020-01-01'
+    date_start: '2019-03-01'
     date_end: ''
     description: |2-
         Research of violence detection techniques using:
