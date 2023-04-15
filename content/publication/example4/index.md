@@ -1,5 +1,5 @@
 ---
-title: "Learning Deep Latent Space for vViolence Detection"
+title: "Learning Deep Latent Space for Violence Detection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +26,7 @@ publication_types: ["2"]
 publication: In Multimedia tools and application journal
 publication_short: In Multimedia tools and application journal
 
-abstract: Violent crime is one of the main reasons for death and mental disorder among adults worldwide. It increases the emotional distress of families and communities, such as depression, anxiety, and post-traumatic stress disorder. Automatic violence detection in surveillance cameras is an important research area to prevent physical and mental harm. Previous human behavior classifiers are based on learning both normal and violent patterns to categorize new unknown samples. There are few large datasets with various violent actions, so they could not provide sufficient generality in unseen situations. This paper introduces a novel unsupervised network based on motion acceleration patterns to derive and abstract discriminative features from input samples. This network is constructed from an AutoEncoder architecture, and it is required only to use normal samples in the training phase. The classification has been performed using a one-class classifier to specify violent and normal actions. Obtained results on Hockey and Movie datasets showed that the proposed network achieved outstanding accuracy and generality compared to the state-of-the-art violence detection methods.
+abstract: Numerous violent actions occur in the world every day, affecting victims mentally and physically. To reduce violence rates in society, an automatic system may be required to analyze human activities quickly and detect violent actions accurately. Violence detection is a complex machine vision problem involving insufficient violent datasets and wide variation in activities and environments. In this paper, an unsupervised framework is presented to discriminate between normal and violent actions overcoming these challenges. This is accomplished by analyzing the latent space of a double-stream convolutional AutoEncoder (AE). In the proposed framework, the input samples are processed to extract discriminative spatial and temporal information. A human detection approach is applied in the spatial stream to remove background environment and other noisy information from video segments. Since motion patterns in violent actions are entirely different from normal actions, movement information is processed with a novel Jerk feature in the temporal stream. This feature describes the long-term motion acceleration and is composed of 7 consecutive frames. Moreover, the classification stage is carried out with a one-class classifier using the latent space of AEs to identify the outliers as violent samples. Extensive experiments on Hockey and Movies datasets showed that the proposed framework surpassed the previous works in terms of accuracy and generality.
 
 # Summary. An optional shortened abstract.
 
