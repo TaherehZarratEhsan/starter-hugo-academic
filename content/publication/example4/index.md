@@ -1,5 +1,5 @@
 ---
-title: "DABA-Net"
+title: "Learning Deep Latent Space for vViolence Detection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
