@@ -46,7 +46,6 @@ experience:
     description: |2-
         Research and python implementation of:
 
-        * Research and application of machine learning, deep learning, pattern recognition and its application for computer vision
         * Programming implementation of various image processing techniques such as object detection, tracking, motion estimation, segmentation, feature extraction, feature matching, and optimization
 
 
