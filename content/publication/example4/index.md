@@ -11,7 +11,7 @@ authors:
 
 
 date: "2023-02-23"
-doi: "10.1109/MVIP53647.2022.9738791"
+doi: "https://doi.org/10.1007/s11042-022-13827-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-02-23"
