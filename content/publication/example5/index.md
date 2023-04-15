@@ -1,13 +1,14 @@
 ---
-title: "Learning Deep Latent Space for Violence Detection"
+title: "Smooth longitudinal driving strategy with adjustable nonlinear reference model for autonomous vehicles"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Manoochehr Nahvi
 - Seyed Mehdi Mohtavipour
+- admin
+- Hoseinali jafari abeshoori
+- Morteza Mollajafari
 
 
 date: "2023-03-23"
