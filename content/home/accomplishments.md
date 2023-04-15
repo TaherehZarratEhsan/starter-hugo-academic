@@ -39,6 +39,14 @@ item:
   organization_url: https://www.coursera.org
   title: Generative Adversarial Networks (GAN) Specialization
   url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/9DTTKGFPU58S
+  date_end: ""
+  date_start: "2021-09-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: DeepLearning.AI TensorFlow Developer Professional
+  url: ""
 - certificate_url: https://taherehzarratehsan.netlify.app/uploads/competition.png
   date_end: "2023-01-10"
   date_start: "2022-11-01"
