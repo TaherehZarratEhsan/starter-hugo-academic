@@ -72,5 +72,5 @@ I received my M.Sc. degree in Electrical engineering from University of Guilan. 
 
 I am open to research collaboration in the relevant areas if you are interested, feel free to contact me: zarrat.ehsan [AT] gmail.com
 
-I am looking for a Ph.D. position.  
+  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
