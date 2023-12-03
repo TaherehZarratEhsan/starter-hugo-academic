@@ -1,5 +1,5 @@
 ---
-title: Violence Recognition in Video Sequences
+title: Chicken Behavior Analysis
 summary: " "
 tags:
 - Deep Learning
