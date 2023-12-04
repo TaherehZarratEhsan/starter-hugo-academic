@@ -68,9 +68,9 @@ email: ""
 highlight_name: true
 ---
 
-I received my M.Sc. degree in Electrical engineering from University of Guilan. The main focus of my research is computer vision, machine learning and deep learning. My thesis was violence detection in video sequences using image and video processing techniques. 
+I have earned my M.Sc. and B.Sc. degree in Electrical Engineering from the University of Guilan, with a primary research focus on computer vision, machine learning, and deep learning. My thesis delved into violence detection in video sequences through the application of image and video processing techniques.
 
-I am open to research collaboration in the relevant areas if you are interested, feel free to contact me: zarrat.ehsan [AT] gmail.com
+I am enthusiastic about exploring opportunities for research collaboration in these areas. If you are interested, please feel free to contact me at zarrat.ehsan [AT] gmail.com.
 
   
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
