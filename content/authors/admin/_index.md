@@ -24,6 +24,7 @@ interests:
 - Generative Modeling
 - Representation Learning
 - Generalizability of Deep Learning
+- Anomaly Detection
 - Violence Detection
 - Breast Cancer Detection
 # Education to show in About widget
