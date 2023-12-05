@@ -6,7 +6,7 @@ title: Tahereh Zarrat Ehsan
 superuser: true
 
 # Role/position/tagline
-role: Artificial Intelligence Researcher
+role: Artificial Intelligence Enthusiast and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
