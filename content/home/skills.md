@@ -24,6 +24,10 @@ feature:
   icon_pack: custom
   name: Tensorflow/Tensorflow probabilty
   description:
+- icon: pytorch
+  icon_pack: custom
+  name: Pytorch
+  description:
 - icon: keras
   icon_pack: custom
   name: Keras
