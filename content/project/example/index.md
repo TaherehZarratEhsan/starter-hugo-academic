@@ -31,8 +31,7 @@ url_video: ""
 ---
 
 
-Embarking on my journey into the realm of breast cancer detection has been both challenging and enlightening. As I delve into the vast expanse of research, my focus has extended to encompass state-of-the-art methodologies employed in the analysis of diverse breast imaging data, including mammograms and ultrasound.
-In my pursuit of advancing the field, I am particularly drawn to the development and refinement of self-supervised and unsupervised approaches for breast cancer detection.
+Embarking on my journey into the realm of breast cancer detection has been both challenging and enlightening. In my pursuit of advancing the field, I am particularly drawn to the development and refinement of self-supervised and unsupervised approaches for breast cancer detection.
 
 The application of self-supervised learning techniques allows for harnessing the inherent information within the data itself, minimizing the reliance on labeled datasets and opening up new possibilities for more efficient and scalable detection models. Simultaneously, the exploration of unsupervised approaches promises to uncover hidden patterns and structures within the breast data, potentially revealing novel insights that could contribute to the improvement of early detection methods.
 
