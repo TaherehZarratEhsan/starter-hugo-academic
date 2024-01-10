@@ -30,14 +30,12 @@ experience:
     date_start: '2019-03-01'
     date_end: ''
     description: |2-
-        Research of violence detection techniques using:
+        Research of violence detection techniques:
         
         * deep learning methods such as Transformer, Attention, GNN, and AE using customized loss function and maximum likelihood principle
         * Probabilistic deep learning, unsupervised learning, and generative modeling such as VAE, GAN, pix2pix, Cycle GAN, Normalizing flows
-        
-	Published 2 IEEE international Conference papers at MVIP and IKT
-        
-	Published 2 journal papers at multimedia tools and application (Q1) and visual computer (Q2) journals
+        * Published 2 IEEE international Conference papers at MVIP and IKT
+        * Published 2 journal papers at multimedia tools and application (Q1) and visual computer (Q2) journals
         
   - title: Master Researcher
     company: University of Guilan
