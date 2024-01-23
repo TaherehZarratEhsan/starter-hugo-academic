@@ -37,7 +37,7 @@ experience:
         * Published 2 IEEE international Conference papers at MVIP and IKT
         * Published 2 journal papers at multimedia tools and application (Q1) and visual computer (Q2) journals
         * Published a book chapter at IET journal
-	* Submitted a paper at ArXiv
+
 
   - title: Master Researcher
     company: University of Guilan
